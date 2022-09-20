@@ -1,0 +1,54 @@
+
+.malo{
+    background-color: red
+}
+
+.soldados{
+    background-color: red
+}
+
+.apoyomalo{
+    background-color: red
+}
+
+.subtitulos_imperio{
+    background-color: red
+}
+
+.navemalos{
+    background-color: red
+} 
+
+.soldados{
+    border-style: dotted;
+    letter-spacing:1mm
+}
+
+#vader{
+    font-size: 300%;
+}
+
+#fondo{
+    background-image: url(https://cdn.pixabay.com/photo/2016/01/27/15/25/space-1164579_1280.png);
+}
+
+h2, h1, h3 {
+    background-color: blanchedalmond;
+    font-size: 200%;
+}
+
+.rebelde{
+    background-color: blue;
+    font-size: 150%;
+}
+
+#fuente{
+    font-style: italic;
+    font-size: 150%;
+}
+
+.nave{ 
+    background-color: blue;
+    text-transform: uppercase ;
+    font-size: 100%;
+}
